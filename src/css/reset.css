@@ -1,0 +1,10 @@
+*{
+    border: 0;
+    padding: 0;
+
+    box-sizing: border-box;  /*Identifica que a borda do elemento não deve ultrapassar o tamanho do elemento */
+}
+
+ul{
+    list-style: none;       /*Tira o estilo da lista, as bolinhas que acompanham a lista*/
+}
